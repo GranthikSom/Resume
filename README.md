@@ -1,1 +1,1 @@
-<img src="Resume.pdf" alt="Demo" width="800">
+<img src="1.jpg" alt="Demo" width="800">
