@@ -1,1 +1,1 @@
-<img src="resume.jpg" alt="Demo" width="800">
+<img src="Granthik Som Resume.jpg" alt="Demo" width="800">
